@@ -1,6 +1,8 @@
 # CAR FLOW SIMULATION
 
-the web logo version of this project is here : https://storage.googleapis.com/netlogo/car_flow_simulation.html
+The web logo version of this project is here : https://storage.googleapis.com/netlogo/car_flow_simulation.html
+
+![Car flow simulation](/images/flow_car_simulation.gif)
 
 ## WHAT IS IT?
 
