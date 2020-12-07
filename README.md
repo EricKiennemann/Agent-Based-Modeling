@@ -2,6 +2,8 @@
 
 The web logo version of this project is here : https://storage.googleapis.com/netlogo/car_flow_simulation.html
 
+The modele is also available here : http://modelingcommons.org/browse/one_model/6522#model_tabs_browse_info
+
 ![Car flow simulation](/images/flow_car_simulation.gif)
 
 ## WHAT IS IT?
