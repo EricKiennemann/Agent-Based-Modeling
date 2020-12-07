@@ -28,7 +28,7 @@ There are two main ways to use it :
 	- GO to start up moving
 	- GO once button drives the cars for just one tick of the clock.
 
-* setup file : for more advanced built-in scenario
+* setup file : for more advanced built-in scenario (not available in the web logo version)
 	- ajust same parameters as in out of the box scenarios
 	- plus internal parameters
 	- plus add specific vehicules to simulate close line, slow vehicules ...
