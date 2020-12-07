@@ -1,0 +1,24 @@
+; config file
+; DON'T CHANGE the order of the parameters
+; DON'T ADD OR REMOVE PARAMETER
+; everything after a ; is not read
+1;		flow mode ? (1 = yes, 0 = no (loop mode))
+1200;	flow in cars/hour in "flow mode"
+30;		number of expected car on the road in "loop mode"
+10;		average car acceleration in km/h/s
+35;		average car deceleration in km/h/s
+20;		number of tick before overtaking - patience
+3 ;		number of lane
+25;		number of images(ticks) per second
+1000;	length of the road in m
+130;	max-authorised speed for all cars in km/h
+10;		max acceleration km/h/s - upper bound for acceleration slider
+2;		reactivity time in second (udes to calculate security distance)
+130;	average top-speed and initial speed of normal cars
+20;		max delta around average top-speed and initial speed for normal car
+4;		number of ticks necessary to change lane
+5;		minimal distance between cars (unit : m)
+80;		minimal speed when creating a car in "flow mode". 
+0.1;	rate of change around the average acceleration for the cars
+0.1;	rate of change around the average decelaration for the cars
+0.1;	rate of change around the average reactivity time for the cars
